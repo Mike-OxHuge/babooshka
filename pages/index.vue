@@ -4,7 +4,6 @@
     <div class="section">Second section ...</div>
     <div class="section">Third section ...</div>
     <div class="section">Fourth section ...</div>
-    <div class="section">Babooshka</div>
   </full-page>
 </template>
 
@@ -17,4 +16,7 @@ Vue.use(VueFullPage)
 export default {
   components: {},
 }
+// cos I might forget them again
+// npm run generate
+// firebase deploy --only hosting
 </script>
