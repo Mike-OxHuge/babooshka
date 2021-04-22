@@ -4,6 +4,7 @@
     <div class="section">Second section ...</div>
     <div class="section">Third section ...</div>
     <div class="section">Fourth section ...</div>
+    <div class="section">Babooshka</div>
   </full-page>
 </template>
 
